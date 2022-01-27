@@ -1,0 +1,5088 @@
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 135850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2016-honda-brio-rs-1.2/c4k0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 216310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/ckx0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 214370000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2016-honda-hr-v-e-1.5/cvz0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 229900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2020-toyota-rush-s-trd-sportivo-1.5/cpn0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 207100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cwk0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 151050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2017-toyota-avanza-veloz-1.5/cek0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 222000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/cmg0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 199500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-r-1.5/csm0000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 92150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2017-toyota-agya-g-1.0/cko0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT DAKAR ULTIMATE 4X2 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 458880000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2018-mitsubishi-pajero-sport-dakar-ultimate-4x2-2.4/c1w0000 --> SUCCESS
+
+==================================================
+Model: ECLIPSE CROSS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 385050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/eclipse-cross/2019-mitsubishi-eclipse-cross--1.5/c0y0000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 182360000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-prestige-1.5/c5t0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ TRD 2.4
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 451050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2018-toyota-fortuner-vrz-trd-2.4/c8y0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ TRD 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 459000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2019-toyota-fortuner-vrz-trd-2.4/cwr0000 --> SUCCESS
+
+==================================================
+Model: LIVINA EL 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 172000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-el-1.5/ct80000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GL 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 169000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2020-suzuki-ertiga-gl-1.5/cee0000 --> SUCCESS
+
+==================================================
+Model: XL7 ALPHA 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 215650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/xl7/2020-suzuki-xl7-alpha-1.5/cym0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 246410000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2019-honda-jazz-rs-1.5/crs0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 1
+--------------------------------------------------
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 208550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c3n0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 211850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cyp0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 173850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-rs-1.2/c8m0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 217550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cjo0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 172900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-e-1.5/c4m0000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 836140000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/cl41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 835170000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/cg41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 835170000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/cf41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 835170000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/ce41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 834200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/cj41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 834200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/cm41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 833715000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/ci41000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 834200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/ck41000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 239105000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2020-toyota-yaris-s-trd-1.5/c8t0000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 197880000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-x-1.5/cny0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 205000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cha0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 193000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2018-toyota-sienta-q-1.5/c8d0000 --> SUCCESS
+
+==================================================
+Model: CALYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 113050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-e-1.2/cme0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 2
+--------------------------------------------------
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 209950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cfo0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 97850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2016-toyota-calya-g-1.2/cjm0000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 198000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2021-daihatsu-terios-x-1.5/crp0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 212430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/crz0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 171205000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2018-honda-mobilio-e-1.5/cdx0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 202730000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/cnr0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 190000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-e-prestige-1.5/ccg0000 --> SUCCESS
+
+==================================================
+Model: HR-V E SPECIAL EDITION JBL 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 219000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2016-honda-hr-v-e-special-edition-jbl-1.5/ccb0000 --> SUCCESS
+
+==================================================
+Model: BRIO E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 115430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2015-honda-brio-e-1.2/cm21000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 140600000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2017-toyota-avanza-g-1.3/c6m0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 204000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2018-toyota-sienta-q-1.5/cat0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 204670000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2019-honda-br-v-e-1.5/c001000 --> SUCCESS
+
+==================================================
+Model: HR-V SE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 278390000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-se-1.5/cd01000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 213400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c201000 --> SUCCESS
+
+==================================================
+Model: XPANDER GLS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 172660000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-gls-1.5/c4q0000 --> SUCCESS
+
+==================================================
+Model: CIVIC TURBO ES 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 344350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2017-honda-civic-turbo-es-1.5/cru0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 225150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2020-honda-br-v-e-1.5/cm60000 --> SUCCESS
+
+==================================================
+Model: TERIOS X DLX 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 183350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-x-dlx-1.5/cqh0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 3
+--------------------------------------------------
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 202350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-r-1.5/cho0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 205200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c1m0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 187150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-e-prestige-1.5/cll0000 --> SUCCESS
+
+==================================================
+Model: 3 20I (CKD) 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 837595000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/bmw/3/2021-bmw-3-20i--ckd--2.0/ch41000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA V 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 380725000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2020-toyota-kijang-innova-v-2.4/cws0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 189150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/c2w0000 --> SUCCESS
+
+==================================================
+Model: CR-V PRESTIGE 2.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 283300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2015-honda-cr-v-prestige-2.4/c6x0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA SPORT GT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 193030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-sport-gt-1.5/cds0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 162960000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-e-1.5/cgq0000 --> SUCCESS
+
+==================================================
+Model: SX4 S-CROSS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 196000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/sx4/2018-suzuki-sx4-s-cross-1.5/cb70000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 113050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/c8k0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA G-N140 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 270750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2016-toyota-kijang-innova-g-n140-2.4/clj0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R DLX 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 220985000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2020-daihatsu-terios-r-dlx-1.5/c4z0000 --> SUCCESS
+
+==================================================
+Model: CAMRY V 2.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 523800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/camry/2019-toyota-camry-v-2.5/cgu0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 216310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/c2s0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA DREZA 1.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 173630000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2018-suzuki-ertiga-dreza-1.4/ciz0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 219705000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/c5x0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 209520000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/csu0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 4
+--------------------------------------------------
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 236437000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/cur0000 --> SUCCESS
+
+==================================================
+Model: AYLA X 1.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 86330000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2016-daihatsu-ayla-x-1.0/cd21000 --> SUCCESS
+
+==================================================
+Model: CX-3 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 281785000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mazda/cx-3/2017-mazda-cx-3--2.0/coy0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 4X2 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 418070000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2018-toyota-fortuner-vrz-4x2-2.4/clx0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA REBORN G 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 307535000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2019-toyota-kijang-innova-reborn-g-2.4/czr0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 395280000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2017-honda-cr-v-turbo-prestige-1.5/c501000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA G 2.4
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 304000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2018-toyota-kijang-innova-g-2.4/ciu0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 199820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/ca90000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 188000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2020-honda-mobilio-e-1.5/cng0000 --> SUCCESS
+
+==================================================
+Model: SIENTA G 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 150350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-g-1.5/ch31000 --> SUCCESS
+
+==================================================
+Model: TUCSON XG 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 295850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/hyundai/tucson/2017-hyundai-tucson-xg-2.0/c2x0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 212430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cx30000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 4X2 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 468350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2020-toyota-fortuner-vrz-4x2-2.4/c3o0000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 170050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-v-1.5/cwn0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER G 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 368160000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2018-toyota-fortuner-g-2.4/cmr0000 --> SUCCESS
+
+==================================================
+Model: X-TRAIL 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 228000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/x-trail/2016-nissan-x-trail--2.5/cql0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 198850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2021-honda-mobilio-e-1.5/chr0000 --> SUCCESS
+
+==================================================
+Model: AYLA R 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 114000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2019-daihatsu-ayla-r-1.2/cou0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 5
+--------------------------------------------------
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 217668000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-sport-1.5/cxp0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 215340000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c2y0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 191090000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-e-prestige-1.5/czt0000 --> SUCCESS
+
+==================================================
+Model: CIVIC TC 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 326950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2016-honda-civic-tc-1.5/cgw0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 202730000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/ca11000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 204500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2018-toyota-sienta-q-1.5/ch01000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 180420000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-x-1.5/c0t0000 --> SUCCESS
+
+==================================================
+Model: CR-V 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 266750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2016-honda-cr-v--2.4/cw21000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 4X2 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 415160000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2018-toyota-fortuner-vrz-4x2-2.4/czy0000 --> SUCCESS
+
+==================================================
+Model: CAMRY V 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 527680000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/camry/2019-toyota-camry-v-2.5/c241000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 182360000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-x-1.5/c051000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 214855000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cu31000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 258990000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/c541000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 216795000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cvq0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 212430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2016-honda-hr-v-e-1.5/c301000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 180420000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-x-1.5/cmf0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 138700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2016-honda-brio-rs-1.2/cqg0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 211850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-sport-1.5/clq0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 6
+--------------------------------------------------
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 222300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cqn0000 --> SUCCESS
+
+==================================================
+Model: CIVIC E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 396150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2019-honda-civic-e-1.5/csq0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 156655000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cd41000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 177995000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-rs-1.2/cgz0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 199820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/cs31000 --> SUCCESS
+
+==================================================
+Model: CIVIC TURBO E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 369000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2018-honda-civic-turbo-e-1.5/cv70000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 207000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cy80000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 199500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/c9g0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 229900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2020-toyota-rush-s-trd-sportivo-1.5/c0q0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 190000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-q-1.5/czp0000 --> SUCCESS
+
+==================================================
+Model: INNOVA VENTURER 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 388550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2018-toyota-innova-venturer-2.4/cwi0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 2.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 363850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2016-toyota-fortuner-vrz-2.4/ctq0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 122550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/ckr0000 --> SUCCESS
+
+==================================================
+Model: INNOVA Q VENTURER 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 370500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2017-toyota-innova-q-venturer-2.4/cyq0000 --> SUCCESS
+
+==================================================
+Model: CIVIC TURBO ES 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 329800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2017-honda-civic-turbo-es-1.5/cfu0000 --> SUCCESS
+
+==================================================
+Model: HR-V SE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 268850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-se-1.5/cji0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 208525000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c7t0000 --> SUCCESS
+
+==================================================
+Model: HR-V S 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 204250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-s-1.5/crq0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 7
+--------------------------------------------------
+==================================================
+Model: AYLA R 1.2
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 106875000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2018-daihatsu-ayla-r-1.2/cht0000 --> SUCCESS
+
+==================================================
+Model: 2 R 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 224070000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mazda/2/2019-mazda-2-r-1.5/c0x0000 --> SUCCESS
+
+==================================================
+Model: JAZZ S 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 205155000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-s-1.5/cj31000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 207095000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2015-honda-hr-v-e-1.5/ck11000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 219000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/csz0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 218250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cjt0000 --> SUCCESS
+
+==================================================
+Model: AYLA R 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 107670000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2018-daihatsu-ayla-r-1.2/cf11000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 160050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2015-honda-mobilio-rs-1.5/c3v0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 216310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-1.5/ce01000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 212900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2017-honda-jazz-rs-1.5/cav0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 225150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/c3i0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 215650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cvf0000 --> SUCCESS
+
+==================================================
+Model: CITY E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 206150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/city/2017-honda-city-e-1.5/cjh0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA G 2.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 355020000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2021-toyota-kijang-innova-g-2.4/cct0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 197125000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/cv01000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 213400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cbv0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 174115000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-rs-1.5/c9v0000 --> SUCCESS
+
+==================================================
+Model: INNOVA G DIESEL 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 280330000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2017-toyota-innova-g-diesel-2.5/cfw0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 8
+--------------------------------------------------
+==================================================
+Model: AYLA X 1.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 101650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2019-daihatsu-ayla-x-1.0/cph0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 207100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2017-mitsubishi-xpander-ultimate-1.5/clh0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 219450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cwj0000 --> SUCCESS
+
+==================================================
+Model: HR-V PRESTIGE 1.8
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 333450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2019-honda-hr-v-prestige-1.8/c4n0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 106700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/cp31000 --> SUCCESS
+
+==================================================
+Model: SERENA HIGHWAY STAR 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 373450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/serena/2019-nissan-serena-highway-star-2.0/c821000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 218250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/ck21000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 132890000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/ct01000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 207580000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2015-honda-hr-v-e-1.5/ccy0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 176540000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-e-1.5/c421000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 172660000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-v-1.5/ct41000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 137740000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2014-toyota-avanza-veloz-1.5/c3z0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 206000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cqe0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 209950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-1.5/csj0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 125130000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2016-honda-brio-rs-1.2/cfy0000 --> SUCCESS
+
+==================================================
+Model: RUSH S 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 220190000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-1.5/cr61000 --> SUCCESS
+
+==================================================
+Model: LIVINA VL 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 211460000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-vl-1.5/c511000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 214370000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-sport-1.5/cx21000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 9
+--------------------------------------------------
+==================================================
+Model: CITY E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 247350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/city/2019-honda-city-e-1.5/cy31000 --> SUCCESS
+
+==================================================
+Model: INNOVA G DIESEL 2.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 302640000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2018-toyota-innova-g-diesel-2.4/crw0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 168780000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2018-honda-mobilio-e-1.5/cpw0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 213303000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cay0000 --> SUCCESS
+
+==================================================
+Model: HR-V PRESTIGE 1.8
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 237650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2015-honda-hr-v-prestige-1.8/c601000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 203700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2015-honda-hr-v-e-1.5/cix0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 207100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/cxt0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT DAKAR 4X2 2.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 453150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2018-mitsubishi-pajero-sport-dakar-4x2-2.5/c1u0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 209950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cip0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 201760000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/ce11000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.0
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 115430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2017-toyota-agya-g-1.0/cq21000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 198850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-prestige-1.5/c271000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 196800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/cuz0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 180420000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/c761000 --> SUCCESS
+
+==================================================
+Model: SX4 S-CROSS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 181920000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/sx4/2018-suzuki-sx4-s-cross-1.5/cs41000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 193030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2021-daihatsu-terios-x-1.5/c8r0000 --> SUCCESS
+
+==================================================
+Model: XPANDER EXCEED 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 191120000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2017-mitsubishi-xpander-exceed-1.5/cro0000 --> SUCCESS
+
+==================================================
+Model: CIVIC TC E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 373440000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/civic/2018-honda-civic-tc-e-1.5/c1r0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 10
+--------------------------------------------------
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 108640000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/c8s0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 237650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/csr0000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 208453000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2019-honda-br-v-prestige-1.5/cz51000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 126003000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2019-toyota-agya-g-1.2/ci11000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 213400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-g-1.5/ci31000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 182360000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/ca61000 --> SUCCESS
+
+==================================================
+Model: SIENTA G 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 160050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-g-1.5/cr51000 --> SUCCESS
+
+==================================================
+Model: BIANTE SKYACTIV 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 203603000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mazda/biante/2016-mazda-biante-skyactiv-2.0/c1x0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 162960000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2018-toyota-avanza-veloz-1.5/cc41000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 122123000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2014-honda-mobilio-e-1.5/ccz0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 187000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2016-honda-jazz-rs-1.5/cob0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 227050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cnj0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA REBORN VENTURER DIESEL 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 371450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2017-toyota-kijang-innova-reborn-venturer-diesel-2.4/c2k0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.3
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 141550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2016-toyota-avanza-veloz-1.3/cik0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 234650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/cep0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 4X2 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 447450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2019-toyota-fortuner-vrz-4x2-2.4/cup0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 209520000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2017-honda-jazz-rs-1.5/cxw0000 --> SUCCESS
+
+==================================================
+Model: RUSH S 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 140650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2013-toyota-rush-s-1.5/cun0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 11
+--------------------------------------------------
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 162960000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-satya-e-1.2/cwy0000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 179450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-prestige-1.5/cby0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 217280000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cfq0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 185270000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-e-1.5/cb71000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 206150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-g-1.5/ckl0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 107573000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/cx51000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 216310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-g-1.5/cu41000 --> SUCCESS
+
+==================================================
+Model: HR-V SE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 300700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2019-honda-hr-v-se-1.5/cdv0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 197030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/cv41000 --> SUCCESS
+
+==================================================
+Model: RUSH S 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 208550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-1.5/cuy0000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 154230000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-v-1.5/c951000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 203700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/c351000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 207386000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/c931000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 217183000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cax0000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 192060000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2018-honda-br-v-prestige-1.5/caz0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 118750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/c381000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 203603000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/cdz0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 128913000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/cux0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 12
+--------------------------------------------------
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 236486000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/cw51000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 180323000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-prestige-1.5/cl11000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 132405000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2015-toyota-avanza-g-1.3/cv21000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 204250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/c9j0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 220400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/ctk0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 209326000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2020-honda-mobilio-rs-1.5/cev0000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 174406000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-v-1.5/cz31000 --> SUCCESS
+
+==================================================
+Model: ERTIGA SPORT GT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 193030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-sport-gt-1.5/co31000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 117176000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2017-toyota-agya-g-1.2/ckv0000 --> SUCCESS
+
+==================================================
+Model: AYLA X 1.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 87106000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2016-daihatsu-ayla-x-1.0/c811000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 210296000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/ca01000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 102820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2015-honda-brio-satya-e-1.2/cl71000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 115236000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/cb21000 --> SUCCESS
+
+==================================================
+Model: XPANDER EXCEED 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 189150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-exceed-1.5/cd11000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 167810000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-1.5/cn51000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 172660000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-1.5/cqy0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 149865000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cw41000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 216116000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cf21000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 13
+--------------------------------------------------
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 214176000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c451000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 122996000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2018-toyota-calya-g-1.2/c7w0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 396536000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2017-honda-cr-v-turbo-prestige-1.5/ci21000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 141426000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2014-toyota-yaris-g-1.5/cx41000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA REBORN G 2.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 237650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2017-toyota-kijang-innova-reborn-g-2.0/ce31000 --> SUCCESS
+
+==================================================
+Model: RUSH TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 164803000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2015-toyota-rush-trd-sportivo-1.5/cnw0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 128040000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/crv0000 --> SUCCESS
+
+==================================================
+Model: IGNIS GL MT 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 112000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ignis/2018-suzuki-ignis-gl-mt-1.2/cd90000 --> SUCCESS
+
+==================================================
+Model: INNOVA Q VENTURER 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 374300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2017-toyota-innova-q-venturer-2.4/cpk0000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 190950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-g-1.5/czo0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 122996000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/coz0000 --> SUCCESS
+
+==================================================
+Model: AYLA R DLX 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 113296000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2017-daihatsu-ayla-r-dlx-1.2/cs71000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 182360000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/cp21000 --> SUCCESS
+
+==================================================
+Model: SIGRA R DLX 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 101365000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2017-daihatsu-sigra-r-dlx-1.2/cz41000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 408370000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2018-honda-cr-v-turbo-prestige-1.5/cmn0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 199820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/c2q0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 216310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/c6q0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 199820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/cwt0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 14
+--------------------------------------------------
+==================================================
+Model: PAJERO SPORT DAKAR 4X2 2.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 461720000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2018-mitsubishi-pajero-sport-dakar-4x2-2.5/cqr0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 202000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cpc0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 220400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cne0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 211850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2020-daihatsu-terios-r-1.5/cvm0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 207100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2017-mitsubishi-xpander-ultimate-1.5/czj0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 159600000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2016-honda-mobilio-rs-1.5/c1l0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 215000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/ctt0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 197000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/cbu0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 150000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-e-1.5/c0u0000 --> SUCCESS
+
+==================================================
+Model: SIENTA G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 160000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-g-1.5/c3w0000 --> SUCCESS
+
+==================================================
+Model: CR-V PRESTIGE 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 309700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2016-honda-cr-v-prestige-2.4/c1b0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 261000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/cpu0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 220190000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-1.5/cfz0000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 160550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2017-daihatsu-terios-r-1.5/cpr0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 129010000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/ctr0000 --> SUCCESS
+
+==================================================
+Model: YARIS S 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 228000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-1.5/cot0000 --> SUCCESS
+
+==================================================
+Model: ALTIS V 1.8
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 309430000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/altis/2018-toyota-altis-v-1.8/c6t0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 199000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/cys0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 15
+--------------------------------------------------
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 117000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/c9f0000 --> SUCCESS
+
+==================================================
+Model: SX4 S-CROSS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 184300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/sx4/2018-suzuki-sx4-s-cross-1.5/cqm0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 273600000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2019-honda-hr-v-e-1.5/c9a0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 169000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-rs-1.5/cof0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT DAKAR 4X2 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 464630000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2018-mitsubishi-pajero-sport-dakar-4x2-2.5/c2z0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 234740000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/ces0000 --> SUCCESS
+
+==================================================
+Model: SX4 S-CROSS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 194750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/sx4/2018-suzuki-sx4-s-cross-1.5/ce70000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 207000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cd70000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 115900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2018-toyota-calya-g-1.2/c8i0000 --> SUCCESS
+
+==================================================
+Model: SX4 S-CROSS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 156750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/sx4/2017-suzuki-sx4-s-cross-1.5/clk0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 222130000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cjw0000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 116400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2019-toyota-agya-g-trd-1.2/cwu0000 --> SUCCESS
+
+==================================================
+Model: YARIS S LTD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 201400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-ltd-1.5/cv40000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 225150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2020-toyota-yaris-s-trd-1.5/ck80000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 173850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-rs-1.5/cyf0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 175750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-q-1.5/cvj0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 159000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-satya-e-1.2/czu0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 173630000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-rs-1.2/c7y0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 16
+--------------------------------------------------
+==================================================
+Model: XPANDER EXCEED 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 185270000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-exceed-1.5/cb01000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 173630000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-rs-1.5/c2v0000 --> SUCCESS
+
+==================================================
+Model: AGYA TRD SPORTIVO 1.0
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 93600000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2015-toyota-agya-trd-sportivo-1.0/c0v0000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 180000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2019-daihatsu-terios-x-1.5/c5b0000 --> SUCCESS
+
+==================================================
+Model: AYLA R 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 112200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2019-daihatsu-ayla-r-1.2/c7g0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA DREZA 1.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 148200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2017-suzuki-ertiga-dreza-1.4/c0k0000 --> SUCCESS
+
+==================================================
+Model: X-TRAIL 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 308750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/x-trail/2018-nissan-x-trail--2.5/cnk0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 186200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2019-toyota-avanza-veloz-1.5/cyl0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD HEYKERS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 193030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2017-toyota-yaris-s-trd-heykers-1.5/cdu0000 --> SUCCESS
+
+==================================================
+Model: INNOVA VENTURER 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 412500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2019-toyota-innova-venturer-2.4/cuu0000 --> SUCCESS
+
+==================================================
+Model: VOXY 2.0
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 390910000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/voxy/2019-toyota-voxy--2.0/czz0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 204185000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2017-mitsubishi-xpander-ultimate-1.5/cfr0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA G-N140 2.0
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 227950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2016-toyota-kijang-innova-g-n140-2.0/cit0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA G 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 305000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2018-toyota-kijang-innova-g-2.4/c8v0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 226980000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-1.5/cgt0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA REBORN V 2.0
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 261900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2017-toyota-kijang-innova-reborn-v-2.0/c3x0000 --> SUCCESS
+
+==================================================
+Model: TERIOS X 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 186000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2020-daihatsu-terios-x-1.5/cku0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 102820000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2016-daihatsu-sigra-r-std-1.2/cfv0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 17
+--------------------------------------------------
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 132890000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2014-toyota-avanza-veloz-1.5/civ0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 141550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2017-toyota-avanza-g-1.3/cie0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 209950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cpm0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 209950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cuo0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 106400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2017-daihatsu-sigra-r-std-1.2/crn0000 --> SUCCESS
+
+==================================================
+Model: FREED S 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 151050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/freed/2013-honda-freed-s-1.5/cgj0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 143560000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cy01000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 97970000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2015-honda-brio-satya-e-1.2/cnv0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 265000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2019-honda-hr-v-e-1.5/cx20000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 202000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-g-1.5/cx80000 --> SUCCESS
+
+==================================================
+Model: GRAND LIVINA VL 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 206150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/grand-livina/2019-nissan-grand-livina-vl-1.5/cdn0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 209000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/ccn0000 --> SUCCESS
+
+==================================================
+Model: CR-V TC (CKD) 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 396020000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2019-honda-cr-v-tc--ckd--1.5/c8x0000 --> SUCCESS
+
+==================================================
+Model: CITY E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 275925000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/city/2020-honda-city-e-1.5/c4u0000 --> SUCCESS
+
+==================================================
+Model: HR-V SE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 285000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-se-1.5/c8w0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 265930000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/cg21000 --> SUCCESS
+
+==================================================
+Model: HR-V E PRESTIGE 1.8
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 289090000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-prestige-1.8/cww0000 --> SUCCESS
+
+==================================================
+Model: YARIS S 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 159080000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2015-toyota-yaris-s-1.5/cjq0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 18
+--------------------------------------------------
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 184300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2019-toyota-avanza-veloz-1.5/cov0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 144530000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2015-honda-mobilio-rs-1.5/cmp0000 --> SUCCESS
+
+==================================================
+Model: OUTLANDER PX 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 179000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/outlander/2013-mitsubishi-outlander-px-2.0/cbq0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 216000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2020-honda-br-v-e-1.5/c7d0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 123000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2021-toyota-calya-g-1.2/cfh0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 175750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2014-honda-jazz-rs-1.5/c1h0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 142025000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/c6p0000 --> SUCCESS
+
+==================================================
+Model: INNOVA Q VENTURER DIESEL 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 386650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2018-toyota-innova-q-venturer-diesel-2.5/cdo0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 223250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cio0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 168150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-prestige-1.5/caj0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 129010000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/ceq0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT DAKAR 4X2 2.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 462690000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2018-mitsubishi-pajero-sport-dakar-4x2-2.5/cq01000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 170720000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-trd-sportivo-1.5/cvt0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT EXCEED 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 259960000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2014-mitsubishi-pajero-sport-exceed-2.5/cks0000 --> SUCCESS
+
+==================================================
+Model: GRAND LIVINA VL 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 204000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/grand-livina/2019-nissan-grand-livina-vl-1.5/cg50000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 275000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2020-honda-hr-v-e-1.5/cm70000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 235000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2021-toyota-rush-s-trd-1.5/c2i0000 --> SUCCESS
+
+==================================================
+Model: RUSH TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 170050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2016-toyota-rush-trd-sportivo-1.5/cgl0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 19
+--------------------------------------------------
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 109250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/c9p0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 95950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2016-daihatsu-sigra-r-std-1.2/c3m0000 --> SUCCESS
+
+==================================================
+Model: 2 R 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 184203000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mazda/2/2016-mazda-2-r-1.5/c941000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 236925000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/chy0000 --> SUCCESS
+
+==================================================
+Model: XENIA R STD 1.3
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 168780000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/xenia/2019-daihatsu-xenia-r-std-1.3/ci40000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 176000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-rs-1.2/cma0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 160000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-prestige-1.5/c2h0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 205200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cwo0000 --> SUCCESS
+
+==================================================
+Model: CAMRY V 2.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 528650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/camry/2019-toyota-camry-v-2.5/c211000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 194000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/cr11000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 129010000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2019-toyota-agya-g-trd-1.2/cf01000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 130500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/cjx0000 --> SUCCESS
+
+==================================================
+Model: INNOVA Q VENTURER 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 373450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2017-toyota-innova-q-venturer-2.4/cbo0000 --> SUCCESS
+
+==================================================
+Model: HR-V S 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 198850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2016-honda-hr-v-s-1.5/c3y0000 --> SUCCESS
+
+==================================================
+Model: PAJERO SPORT DAKAR 2.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 388000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/pajero-sport/2016-mitsubishi-pajero-sport-dakar-2.5/cq31000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 129495000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/cpq0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 197970000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2016-honda-jazz-rs-1.5/cl31000 --> SUCCESS
+
+==================================================
+Model: INNOVA VENTURER 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 389060000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/innova/2018-toyota-innova-venturer-2.4/cbn0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 20
+--------------------------------------------------
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 206125000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2015-honda-hr-v-e-1.5/cw01000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 155800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-g-1.5/c9h0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 173000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-q-1.5/cyg0000 --> SUCCESS
+
+==================================================
+Model: XPANDER EXCEED 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 199790000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-exceed-1.5/cdw0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 236195000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/cas0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 196910000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2016-honda-jazz-rs-1.5/c0s0000 --> SUCCESS
+
+==================================================
+Model: CR-V 2.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 239590000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2016-honda-cr-v--2.0/cmw0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 228000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2020-toyota-rush-s-trd-sportivo-1.5/cwh0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 205200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cyi0000 --> SUCCESS
+
+==================================================
+Model: COROLLA ALTIS V 1.8
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 227950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/corolla-altis/2016-toyota-corolla-altis-v-1.8/cyu0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 189000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2020-honda-mobilio-rs-1.5/c0p0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 112520000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2018-toyota-calya-g-1.2/cxr0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 137740000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-rs-1.2/cbt0000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 219000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2021-toyota-rush-g-1.5/c7e0000 --> SUCCESS
+
+==================================================
+Model: CITY RS HATCHBACK 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 283000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/city/2021-honda-city-rs-hatchback-1.5/ciq0000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 139650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2020-toyota-agya-g-trd-1.2/c1q0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 217550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cbp0000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 164350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-v-1.5/cjl0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 21
+--------------------------------------------------
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 206150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2019-honda-br-v-e-1.5/czv0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 135315000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/co11000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 233770000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2020-mitsubishi-xpander-ultimate-1.5/ck31000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 269660000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2019-honda-hr-v-e-1.5/c7v0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD HEYKERS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 180420000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-trd-heykers-1.5/cuv0000 --> SUCCESS
+
+==================================================
+Model: CAMRY V 2.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 295850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/camry/2016-toyota-camry-v-2.5/cqv0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 128040000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2015-suzuki-ertiga-gx-1.4/cmt0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 158260000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2017-toyota-avanza-veloz-1.5/ccw0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 414515000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2018-honda-cr-v-turbo-prestige-1.5/c411000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 182000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/ch70000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 176000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-rs-1.2/cae0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 203300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cud0000 --> SUCCESS
+
+==================================================
+Model: ROCKY R 1.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 204250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/rocky/2021-daihatsu-rocky-r-1.0/c9q0000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 143450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2021-toyota-agya-g-1.2/coo0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ 4X2 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 500000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2021-toyota-fortuner-vrz-4x2-2.4/co60000 --> SUCCESS
+
+==================================================
+Model: TERIOS R 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 194750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-r-1.5/cto0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 217550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/c4r0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 167200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2018-honda-mobilio-e-1.5/cxo0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 22
+--------------------------------------------------
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 192060000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/chp0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 202730000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-sport-1.5/cbx0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 217280000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cv11000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 411765000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2018-honda-cr-v-turbo-prestige-1.5/cnq0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 215340000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2016-honda-hr-v-e-1.5/cst0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 112520000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/ci51000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 218250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-1.5/cmu0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 143560000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2015-honda-mobilio-rs-1.5/cx31000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 158000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2018-honda-mobilio-e-1.5/cdb0000 --> SUCCESS
+
+==================================================
+Model: FREED E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 153000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/freed/2014-honda-freed-e-1.5/cpd0000 --> SUCCESS
+
+==================================================
+Model: BR-V PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 182400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-prestige-1.5/cbh0000 --> SUCCESS
+
+==================================================
+Model: SIRION D 1.3
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 163400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sirion/2019-daihatsu-sirion-d-1.3/cap0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 211850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/car0000 --> SUCCESS
+
+==================================================
+Model: CITY E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 223250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/city/2017-honda-city-e-1.5/cjp0000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 221350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cop0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 135850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-rs-1.2/c9m0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 155200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cpy0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 150350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2018-toyota-avanza-g-1.3/c441000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 23
+--------------------------------------------------
+==================================================
+Model: RUSH S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 209000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-1.5/c620000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 255000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/c220000 --> SUCCESS
+
+==================================================
+Model: XPANDER CROSS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 220190000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-cross-1.5/cv10000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 217075000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/cpa0000 --> SUCCESS
+
+==================================================
+Model: XPANDER SPORT 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 194000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2017-mitsubishi-xpander-sport-1.5/cw70000 --> SUCCESS
+
+==================================================
+Model: SIGRA D 1.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 93100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2020-daihatsu-sigra-d-1.0/cal0000 --> SUCCESS
+
+==================================================
+Model: XPANDER CROSS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 246050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2021-mitsubishi-xpander-cross-1.5/c8p0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 196650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/cnt0000 --> SUCCESS
+
+==================================================
+Model: YARIS S 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 156750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2015-toyota-yaris-s-1.5/csn0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 138700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2016-honda-mobilio-e-1.5/c3l0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GL 1.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 138700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2018-suzuki-ertiga-gl-1.4/ct70000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 116000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2016-honda-brio-rs-1.2/cfb0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 227050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2020-toyota-yaris-s-trd-1.5/c7c0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 140600000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cbm0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 234650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2020-toyota-yaris-s-trd-1.5/cao0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 211850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cvp0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 161500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2018-toyota-avanza-veloz-1.5/cyo0000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 117800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2017-toyota-agya-g-trd-1.2/c7o0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 24
+--------------------------------------------------
+==================================================
+Model: IGNIS GX AGS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 131100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ignis/2018-suzuki-ignis-gx-ags-1.2/cqo0000 --> SUCCESS
+
+==================================================
+Model: AYLA X 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 113490000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2019-daihatsu-ayla-x-1.2/co51000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 110550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2019-daihatsu-sigra-r-std-1.2/c1y0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 130500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/c5v0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 101850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2018-daihatsu-sigra-r-std-1.2/csx0000 --> SUCCESS
+
+==================================================
+Model: PANTHER GRAND TOURING 2.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 267720000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/isuzu/panther/2019-isuzu-panther-grand-touring-2.5/c311000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA V DIESEL 2.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 298760000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2016-toyota-kijang-innova-v-diesel-2.4/csy0000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 202000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2019-toyota-sienta-v-1.5/clb0000 --> SUCCESS
+
+==================================================
+Model: HR-V E PRESTIGE 1.8
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 279300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-prestige-1.8/cxi0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 212800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cfp0000 --> SUCCESS
+
+==================================================
+Model: YARIS S 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 158650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-1.5/c7r0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 211460000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/cj01000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 257320000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/c911000 --> SUCCESS
+
+==================================================
+Model: CX-5 TOURING 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 198850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mazda/cx-5/2014-mazda-cx-5-touring-2.5/cbz0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 160000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2019-toyota-avanza-g-1.3/c0e0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 227050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/czh0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 118750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2018-toyota-calya-g-1.2/c6h0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 146300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2015-honda-mobilio-rs-1.5/c5i0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 25
+--------------------------------------------------
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 143450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2015-toyota-avanza-veloz-1.5/cet0000 --> SUCCESS
+
+==================================================
+Model: HR-V SE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 302640000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2020-honda-hr-v-se-1.5/cnp0000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 131950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2019-toyota-agya-g-trd-1.2/c021000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 127680000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/cc71000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.3
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 169750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2018-toyota-avanza-veloz-1.3/c121000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 129010000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-satya-e-1.2/c961000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 254140000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-1.5/c101000 --> SUCCESS
+
+==================================================
+Model: IGNIS GL AGS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 113490000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ignis/2018-suzuki-ignis-gl-ags-1.2/c111000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 112423000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/ca31000 --> SUCCESS
+
+==================================================
+Model: X-TRAIL 2.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 210490000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/x-trail/2015-nissan-x-trail--2.5/c9z0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 158110000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-rs-1.2/cky0000 --> SUCCESS
+
+==================================================
+Model: BR-V E 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 165870000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2016-honda-br-v-e-1.5/cr01000 --> SUCCESS
+
+==================================================
+Model: AGYA G TRD 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 124450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2019-toyota-agya-g-trd-1.2/cjj0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 107350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2018-toyota-calya-g-1.2/cuh0000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 205200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2018-mitsubishi-xpander-ultimate-1.5/c1p0000 --> SUCCESS
+
+==================================================
+Model: IGNIS GX 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 131100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ignis/2018-suzuki-ignis-gx-1.2/ccq0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 139650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2017-suzuki-ertiga-gx-1.4/crk0000 --> SUCCESS
+
+==================================================
+Model: XPANDER CROSS 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 240560000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-cross-1.5/cy21000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 26
+--------------------------------------------------
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 163930000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2021-honda-brio-satya-e-1.2/cyx0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 203700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/ca41000 --> SUCCESS
+
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Puri Indah, Jakarta Barat
+Harga: 160050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-v-1.5/clv0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GX 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 172660000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-gx-1.5/c401000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 131920000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/cvy0000 --> SUCCESS
+
+==================================================
+Model: HR-V E PRESTIGE 1.8
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 299700000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-prestige-1.8/c621000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 104760000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2016-toyota-calya-g-1.2/cqw0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 176225000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2016-toyota-sienta-q-1.5/c4w0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 121250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2014-toyota-avanza-g-1.3/c5z0000 --> SUCCESS
+
+==================================================
+Model: GRAND LIVINA SV 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 92150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/grand-livina/2013-nissan-grand-livina-sv-1.5/ciw0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R DLX 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 109610000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2017-daihatsu-sigra-r-dlx-1.2/cb61000 --> SUCCESS
+
+==================================================
+Model: SIGRA X 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 103550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2019-daihatsu-sigra-x-1.2/cdk0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 223250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/cen0000 --> SUCCESS
+
+==================================================
+Model: KIJANG INNOVA V 2.4
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 373350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/kijang-innova/2020-toyota-kijang-innova-v-2.4/cvs0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 133950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/c3q0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 153260000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cj21000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 239590000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/c851000 --> SUCCESS
+
+==================================================
+Model: YARIS S 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 211000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-1.5/cpe0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 27
+--------------------------------------------------
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 97850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2016-toyota-calya-g-1.2/c3j0000 --> SUCCESS
+
+==================================================
+Model: XENIA R STD 1.3
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 125400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/xenia/2017-daihatsu-xenia-r-std-1.3/cbj0000 --> SUCCESS
+
+==================================================
+Model: AGYA G 1.0
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 80750000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/agya/2013-toyota-agya-g-1.0/cvi0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 135703000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/cb51000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 223003000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-1.5/cz01000 --> SUCCESS
+
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 215650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-s-trd-sportivo-1.5/cfl0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 185250000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-q-1.5/cni0000 --> SUCCESS
+
+==================================================
+Model: HR-V E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 228920000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2017-honda-hr-v-e-1.5/crr0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 160550000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2017-honda-mobilio-e-1.5/cmo0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA SPORT GT 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 175000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2019-suzuki-ertiga-sport-gt-1.5/cic0000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 200000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2019-toyota-rush-g-1.5/cif0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 214370000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/cpt0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 398670000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2017-honda-cr-v-turbo-prestige-1.5/c3r0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 139680000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cqs0000 --> SUCCESS
+
+==================================================
+Model: OUTLANDER PX 2.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 186240000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/outlander/2014-mitsubishi-outlander-px-2.0/css0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 164900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2019-toyota-avanza-g-1.3/cp11000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 171496000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-trd-sportivo-1.5/cq71000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GL 1.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 146470000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2018-suzuki-ertiga-gl-1.4/ce81000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 28
+--------------------------------------------------
+==================================================
+Model: SIENTA V 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 173850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-v-1.5/clf0000 --> SUCCESS
+
+==================================================
+Model: SIGRA R STD 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 129200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/sigra/2020-daihatsu-sigra-r-std-1.2/c9l0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 98800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2016-toyota-calya-g-1.2/c8l0000 --> SUCCESS
+
+==================================================
+Model: SIENTA G 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 153260000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2017-toyota-sienta-g-1.5/c9r0000 --> SUCCESS
+
+==================================================
+Model: AYLA X 1.0
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 88270000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2017-daihatsu-ayla-x-1.0/cqp0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 128816000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/cv51000 --> SUCCESS
+
+==================================================
+Model: XPANDER ULTIMATE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 219220000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/xpander/2019-mitsubishi-xpander-ultimate-1.5/co91000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ TRD 2.4
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 474050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2020-toyota-fortuner-vrz-trd-2.4/cel0000 --> SUCCESS
+
+==================================================
+Model: AYLA R DLX 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 113050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2018-daihatsu-ayla-r-dlx-1.2/chm0000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 163400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2017-toyota-yaris-g-1.5/c1k0000 --> SUCCESS
+
+==================================================
+Model: AVANZA VELOZ 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 148200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2016-toyota-avanza-veloz-1.5/csi0000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 144400000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2014-toyota-yaris-g-1.5/c6j0000 --> SUCCESS
+
+==================================================
+Model: BRIO RS 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 178480000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-rs-1.2/c7s0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 410310000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2018-honda-cr-v-turbo-prestige-1.5/ctw0000 --> SUCCESS
+
+==================================================
+Model: IGNIS GX AGS 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 131100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ignis/2018-suzuki-ignis-gx-ags-1.2/cm51000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 143450000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/cwm0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 192850000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-ve-1.5/cvk0000 --> SUCCESS
+
+==================================================
+Model: LIVINA VL 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 206150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/nissan/livina/2019-nissan-livina-vl-1.5/c0m0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 29
+--------------------------------------------------
+==================================================
+Model: RUSH S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 210900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-s-trd-sportivo-1.5/cum0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 107350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2017-toyota-calya-g-1.2/col0000 --> SUCCESS
+
+==================================================
+Model: BR-V E PRESTIGE 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 179000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/br-v/2017-honda-br-v-e-prestige-1.5/csb0000 --> SUCCESS
+
+==================================================
+Model: AYLA R 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 123000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/ayla/2020-daihatsu-ayla-r-1.2/c9x0000 --> SUCCESS
+
+==================================================
+Model: CALYA G 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 132000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/calya/2019-toyota-calya-g-1.2/cvu0000 --> SUCCESS
+
+==================================================
+Model: AVANZA G 1.3
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 135000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/avanza/2016-toyota-avanza-g-1.3/cow0000 --> SUCCESS
+
+==================================================
+Model: MOBILIO E PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 152000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/mobilio/2016-honda-mobilio-e-prestige-1.5/clu0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 385000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2018-honda-cr-v-turbo-1.5/cbw0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 210900000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/c270000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 136000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2019-honda-brio-satya-e-1.2/c3g0000 --> SUCCESS
+
+==================================================
+Model: TERIOS X DLX 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 186200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/terios/2018-daihatsu-terios-x-dlx-1.5/cfj0000 --> SUCCESS
+
+==================================================
+Model: HR-V PRESTIGE 1.8
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 294500000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-prestige-1.8/ckn0000 --> SUCCESS
+
+==================================================
+Model: XENIA X 1.3
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 165000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/daihatsu/xenia/2021-daihatsu-xenia-x-1.3/c3u0000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 151000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2015-toyota-yaris-g-1.5/c4v0000 --> SUCCESS
+
+==================================================
+Model: SIENTA Q 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 207100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/sienta/2018-toyota-sienta-q-1.5/c2t0000 --> SUCCESS
+
+==================================================
+Model: RUSH G 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 199000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/rush/2018-toyota-rush-g-1.5/cmy0000 --> SUCCESS
+
+==================================================
+Model: ERTIGA GL 1.4
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 130150000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/suzuki/ertiga/2016-suzuki-ertiga-gl-1.4/cul0000 --> SUCCESS
+
+==================================================
+Model: YARIS G 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 144530000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-g-1.5/c5s0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 30
+--------------------------------------------------
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 158650000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2020-honda-brio-satya-e-1.2/ctj0000 --> SUCCESS
+
+==================================================
+Model: CR-V TURBO PRESTIGE 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 392350000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/cr-v/2017-honda-cr-v-turbo-prestige-1.5/czm0000 --> SUCCESS
+
+==================================================
+Model: BRIO E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 114950000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2017-honda-brio-e-1.2/c2l0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 169100000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-trd-sportivo-1.5/cui0000 --> SUCCESS
+
+==================================================
+Model: ECLIPSE CROSS 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 387030000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/mitsubishi/eclipse-cross/2019-mitsubishi-eclipse-cross--1.5/cau0000 --> SUCCESS
+
+==================================================
+Model: BRIO SATYA E 1.2
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 130000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/brio/2018-honda-brio-satya-e-1.2/cuq0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 174000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2017-toyota-yaris-s-trd-1.5/czq0000 --> SUCCESS
+
+==================================================
+Model: FORTUNER VRZ TRD 2.4
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 455050000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/fortuner/2019-toyota-fortuner-vrz-trd-2.4/cgm0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 231800000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2018-honda-jazz-rs-1.5/cxm0000 --> SUCCESS
+
+==================================================
+Model: H-1 ROYALE 2.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 452200000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/hyundai/h-1/2019-hyundai-h-1-royale-2.5/cml0000 --> SUCCESS
+
+==================================================
+Model: JAZZ RS 1.5
+==================================================
+Lokasi: Alam Sutera, Tangerang Selatan
+Harga: 221160000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/jazz/2017-honda-jazz-rs-1.5/cr70000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Pondok Indah, Jakarta Selatan
+Harga: 214000000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2019-toyota-yaris-s-trd-1.5/cxg0000 --> SUCCESS
+
+==================================================
+Model: HR-V E PLUS 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 288090000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/honda/hr-v/2018-honda-hr-v-e-plus-1.5/ccu0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD 1.5
+==================================================
+Lokasi: Bekasi, Bekasi
+Harga: 215340000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2018-toyota-yaris-s-trd-1.5/crx0000 --> SUCCESS
+
+==================================================
+Model: YARIS S TRD SPORTIVO 1.5
+==================================================
+Lokasi: Kelapa Gading, Jakarta Utara
+Harga: 165300000
+LOG:
+SCRAPE DETAIL CAR -->  SUCCESS
+SAVE DATA FROM https://www.carsome.id/beli-mobil-bekas/toyota/yaris/2016-toyota-yaris-s-trd-sportivo-1.5/czn0000 --> SUCCESS
+
+--------------------------------------------------
+Done for page: 31
+--------------------------------------------------
